@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Welcome to the N-Flex Company Website project! This repository contains the codebase for a fictional company called N-Flex Company. The purpose of this project is to demonstrate my skills in web development and design, and it serves as a valuable addition to my portfolio.
 
 ## Getting Started
 
