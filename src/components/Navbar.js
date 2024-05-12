@@ -90,6 +90,7 @@ export default function Navbar() {
                             smooth={true}
                             key={path}
                             offset={-100}
+                            onClick={toggleMenu}
                             className="block text-base text-white hover:text-neutralDarkGray cursor-pointer"
                         >
                             {link}
