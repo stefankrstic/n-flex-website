@@ -11,7 +11,7 @@ export default function Blog() {
         { id: 3, title: "Revamping the Membership Model with Triathlon Australia", image: "/blog3.jpg" },
     ];
     return (
-        <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto my-12">
+        <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto my-12" id="faq">
             <div className="text-center md:w-1/2 mx-auto">
                 <h2 className="text-4xl text-neutralDarkGray font-semibold mb-4">Caring is the new marketing</h2>
                 <p className="text-sm text-neutralGray mb-8 md:w-3/4 mx-auto">

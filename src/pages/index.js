@@ -5,6 +5,7 @@ import About from "@/components/About";
 import Products from "@/components/Products";
 import Blog from "@/components/Blog";
 import Newsletter from "@/components/Newsletter";
+import MyFooter from "@/components/MyFooter";
 
 export default function App() {
     return (
@@ -16,6 +17,7 @@ export default function App() {
             <Products />
             <Blog />
             <Newsletter />
+            <MyFooter />
         </main>
     );
 }

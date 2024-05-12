@@ -90,7 +90,7 @@ export default function Navbar() {
                             smooth={true}
                             key={path}
                             offset={-100}
-                            className="block text-base text-[color:white] text-gray900 hover:text-neutralDarkGray cursor-pointer"
+                            className="block text-base text-white hover:text-neutralDarkGray cursor-pointer"
                         >
                             {link}
                         </Link>
